@@ -13,4 +13,4 @@ Committed to personal growth, predisposed to new challenges, great team worker, 
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://facumedero.github.io/facundomedero/)
+Find all of my socials and resume in my [website](https://linktr.ee/facundomedero)
