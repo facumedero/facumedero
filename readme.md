@@ -5,10 +5,11 @@ Committed to personal growth, predisposed to new challenges, great team worker, 
 
 
 ## Skills
-* Administration and configuration of linux and windows servers
-* Some python, php and HTML coding.
-* Github/Gitlab
-* Some Ansible
+* Administration and configuration of linux and windows servers,Proxmox and VMware
+* Some Ruby, PHP and HTML coding.
+* Github/Gitlab, CI/CD.
+* Some Ansible and molecule.
+* Docker
 
 
 ## Contact
