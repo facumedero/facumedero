@@ -32,7 +32,7 @@ I have strong expertise in Java, RESTful APIs, and database management, alongsid
 
 ### 🔍 Additional Exposure & Familiarity
 
-* **Other Languages:** Ruby, PHP
+* **Other Languages:** Python, PHP
 
 ---
 
